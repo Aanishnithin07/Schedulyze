@@ -6,3 +6,6 @@ google-auth-httplib2>=0.1.1
 google-auth-oauthlib>=1.0.0
 plotly>=5.17.0
 python-dateutil>=2.8.0
+
+# Alternative: Basic dependencies (if above don't work)
+# The app can run with just pandas and numpy for core functionality

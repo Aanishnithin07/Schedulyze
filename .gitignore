@@ -39,6 +39,10 @@ ENV/
 credentials.json
 token.json
 
+# Demo files (keep in repo for demonstration)
+# schedulyze_demo.html
+# demo_screenshot.png
+
 # OS
 .DS_Store
 Thumbs.db
